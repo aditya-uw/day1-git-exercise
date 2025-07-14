@@ -1,4 +1,4 @@
-# Aditya's Git Exercise Repo for Day 1
+# Aditya's Personal Project
 
 Name: Aditya Krishna
 
